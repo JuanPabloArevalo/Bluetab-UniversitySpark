@@ -2,9 +2,8 @@
 
 ## Archivo 1. 
 
-	### datos.csv
+### datos.csv
 	
-	Estructura
 		id
 		first_name
 		last_name
