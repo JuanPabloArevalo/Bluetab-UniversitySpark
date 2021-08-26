@@ -17,3 +17,13 @@
 		partition_field
 		debt
 		salary
+
+
+## Archivo 2. 
+
+### /parquet
+
+
+## Archivo 3. 
+
+### /avro
