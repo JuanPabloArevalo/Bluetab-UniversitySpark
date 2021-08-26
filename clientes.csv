@@ -1,0 +1,6 @@
+id;first_name;last_name;email;profession;age;city;country;country_code;register_date;partition_field;debt;salary
+100;Aigneis;Sinegold;Aigneis.Sinegold@meimail.com;deve1oper;65;Hanover;Gabon;AI;2014-08-22;003;9855840.38;E
+101;Suzette;Ursulette;Suzette.Ursulette@meimail.com;police officer;76;Surat Thani;Somalia;VG;2016-08-06;003;113507594.83;A
+102;Marguerite;Zola;Marguerite.Zola@meimail.com;deve1oper;21;Tripoli;Burundi;JM;2013-07-02;001;9172087.55;F
+103;Deirdre;Tryck;Deirdre.Tryck@meimail.com;doctor;78;Changchun;Tuvalu;ES;2014-05-09;002;3876485.13;E
+104;Talya;Shirberg;Talya.Shirberg@meimail.com;other;38;Philadelphia;Suriname;SG;2014-04-19;001;83293969.58;H
