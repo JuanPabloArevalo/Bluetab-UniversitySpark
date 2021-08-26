@@ -81,7 +81,7 @@
 		operating_costs_amount
 		insolvency_fund_amount
 		gl_application_interface_id
-		gl_application_string_id                                   |
+		gl_application_string_id
 		gl_subaccount_id
 		capital_payment_period_type
 		interest_payment_period_type
