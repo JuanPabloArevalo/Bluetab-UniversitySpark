@@ -15,3 +15,4 @@
 		country_code
 		register_date
 		partition_field
+		debt
