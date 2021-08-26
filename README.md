@@ -16,3 +16,4 @@
 		register_date
 		partition_field
 		debt
+		salary
